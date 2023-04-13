@@ -29,12 +29,12 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
    ## Heading level 2
    ### Heading level 3
    ```
-   
+---   
   > * 1
    ```
    * 1
    ```
-
+---
   > *one star on each side*
   > _This text is also italic_
   ```
@@ -42,22 +42,22 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
   _This text is also italic_
   ```
 
-
+---
 > ~~strikethrough~~
 ```
 ~~strikethrough~~
 ```
 
-
+---
 > [This text links to gfg](https://write.geeksforgeeks.org/).
 ```
 [This text links to gfg](https://write.geeksforgeeks.org/).
 ```
 
-
-> ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
+---
+> ![image]([https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png](https://scontent.fkco5-1.fna.fbcdn.net/v/t39.30808-1/337032211_1236620197293332_7970949390493723550_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=f67be1&_nc_ohc=SkserfBh8mIAX--xT-8&_nc_ht=scontent.fkco5-1.fna&oh=00_AfBl4n_lnVFhgBM65qA0ieIhquUGA_yWDiDyBdUZpDzMYA&oe=643B8C20))
 ```
-![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
+![image](https://scontent.fkco5-1.fna.fbcdn.net/v/t39.30808-1/337032211_1236620197293332_7970949390493723550_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=f67be1&_nc_ohc=SkserfBh8mIAX--xT-8&_nc_ht=scontent.fkco5-1.fna&oh=00_AfBl4n_lnVFhgBM65qA0ieIhquUGA_yWDiDyBdUZpDzMYA&oe=643B8C20)
 ```
 ## Sözdizimi
 ```
