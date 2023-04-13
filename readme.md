@@ -21,12 +21,12 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
 ## Sözdizimi
 
 1 
-    > - 1
-    > + 1
-    ```
-    Paragraph 1
-    line 2
-    ```
+  > Paragraph 1
+  > + 1
+   ```
+   Paragraph 1
+   line 2
+   ```
 
 2
   > *one star on each side*
