@@ -20,15 +20,21 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
 
 ## Sözdizimi
 
-1 
-  > Paragraph 1
-  > + 1
+
+> # Heading level 1
+> ## Heading level 2
+> ### Heading level 3
    ```
-   Paragraph 1
-   line 2
+   # Heading level 1
+   ## Heading level 2
+   ### Heading level 3
+   ```
+   
+  > line 1
+   ```
+   line 1
    ```
 
-2
   > *one star on each side*
   > _This text is also italic_
   ```
@@ -36,19 +42,19 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
   _This text is also italic_
   ```
 
-3
+
 > ~~strikethrough~~
 ```
 ~~strikethrough~~
 ```
 
-4
+
 > [This text links to gfg](https://write.geeksforgeeks.org/).
 ```
 [This text links to gfg](https://write.geeksforgeeks.org/).
 ```
 
-5
+
 > ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
 ```
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
