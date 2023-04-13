@@ -30,9 +30,9 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
    ### Heading level 3
    ```
    
-  > line 1
+  > * 1
    ```
-   line 1
+   * 1
    ```
 
   > *one star on each side*
