@@ -20,21 +20,20 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
 
 ## Sözdizimi
 
-1
-> Paragraph 1
-> line 1
-```
-Paragraph 1
-line 2
-```
+1   > - 1
+    > + 1
+    ```
+    Paragraph 1
+    line 2
+    ```
 
 2
-> *one star on each side*
-> _This text is also italic_
-```
-*one star on each side*
-_This text is also italic_
-```
+  > *one star on each side*
+  > _This text is also italic_
+  ```
+  *one star on each side*
+  _This text is also italic_
+  ```
 
 3
 > ~~strikethrough~~
