@@ -16,8 +16,9 @@
 
 - Dosyayı kaydedin: Dosyayı .md uzantısıyla kaydedin ve projenizin kök dizininde README.md adıyla kaydedin.
 
+
+## Sözdizimi
 ```
-# Sözdizimi
 \ ters eğik çizgi
 ` geri tik
 * yıldız işareti
@@ -31,7 +32,7 @@ _ vurgulamak
 . nokta
 ! ünlem işareti
 ```
-
+## kod
 ```javascript
 if (isAwesome) {
   return true;
