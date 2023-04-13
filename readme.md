@@ -1,10 +1,9 @@
-## readme.md nedir
+## readme.md nedir ✍️
 
----
 README.md dosyası, bir proje dizininde bulunan bir dosyadır ve proje hakkında önemli bilgileri içerir. "README" kelimesi, "read me" kelime öbeğinin kısaltmasıdır ve dosyanın amacı, diğer kullanıcılara projenin ne hakkında olduğu hakkında kısa bir açıklama ve yönlendirme sağlamaktır.
 
 README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler, kurulum talimatları, kullanım örnekleri, katkı sağlama yönergeleri ve lisans bilgileri gibi bilgiler içerebilir. README.md dosyası, projenin ana dizininde bulunur ve GitHub, GitLab ve Bitbucket gibi popüler kod barındırma platformları otomatik olarak okunabilir şekilde görüntüler.
----
+
 
 
 
