@@ -19,24 +19,31 @@ README.md dosyası, bir proje dizininde bulunan bir dosyadır ve proje hakkında
 README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler, kurulum talimatları, kullanım örnekleri, katkı sağlama yönergeleri ve lisans bilgileri gibi bilgiler içerebilir. README.md dosyası, projenin ana dizininde bulunur ve GitHub, GitLab ve Bitbucket gibi popüler kod barındırma platformları otomatik olarak okunabilir şekilde görüntüler.
 
 ## Sözdizimi
+> Paragraph 1
+> line 2
 ```
 Paragraph 1
 line 2
 ```
 ## Sözdizimi
+> *one star on each side*
+> _This text is also italic_
 ```
 *one star on each side*
 _This text is also italic_
 ```
 ## Sözdizimi
+> ~~strikethrough~~
 ```
 ~~strikethrough~~
 ```
 ## Sözdizimi
+> [This text links to gfg](https://write.geeksforgeeks.org/).
 ```
 [This text links to gfg](https://write.geeksforgeeks.org/).
 ```
 ## Sözdizimi
+> ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
 ```
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
 ```
