@@ -16,6 +16,23 @@
 
 - Dosyayı kaydedin: Dosyayı .md uzantısıyla kaydedin ve projenizin kök dizininde README.md adıyla kaydedin.
 
+```
+# Sözdizimi
+\ ters eğik çizgi
+` geri tik
+* yıldız işareti
+_ vurgulamak
+{} kaşlı ayraçlar
+[] köşeli parantez
+() parantezler
+# hash sembolü
++ artı işareti
+– eksi işareti (tire)
+. nokta
+! ünlem işareti
+
+```
+
 ```javascript
 if (isAwesome) {
   return true;
