@@ -30,7 +30,6 @@ _ vurgulamak
 – eksi işareti (tire)
 . nokta
 ! ünlem işareti
-
 ```
 
 ```javascript
