@@ -20,7 +20,8 @@ README.md dosyası, Markdown formatında yazılır ve proje ile ilgili bilgiler,
 
 ## Sözdizimi
 
-1   > - 1
+1 
+    > - 1
     > + 1
     ```
     Paragraph 1
