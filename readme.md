@@ -132,3 +132,11 @@ Content in the first column | content in the second column
 | Content in the first column | content in the second column |
 
 :d
+
+--- # Türkçe ---
+   Türk dil kısaca anlatmaliz
+    * türk hakınde biraz şeyler yazın
+    * türk cümle kuralı nasıl,cümlelerde aynı şeyleri anlatmalıyız ´soru ekiler,işaretler´ gibi her cümledee var şeyler 
+    (Resimile altıyorken kısaca anlatmamız lazım)
+   Konu (Mısalı Şimdeki Zaman)
+    * 
