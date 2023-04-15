@@ -120,16 +120,16 @@ if (isAwesome) {
 ## example
 
 ```
-First Header | Second Header
+ilk başlık | son başlık
  ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | content in the second column
+farametır | farametır
+farametır | farametır
 ```
 
-| First Header                | Second Header                |
+| ilk başlık               | son başlık               |
 | --------------------------- | ---------------------------- |
-| Content from cell 1         | Content from cell 2          |
-| Content in the first column | content in the second column |
+| farametır        | farametır         |
+| farametır | farametır |
 
 :d
 
