@@ -140,6 +140,15 @@ farametır | farametır
     (Resimile altıyorken kısaca anlatmamız lazım)
    Konu (Mısalı Şimdeki Zaman)
     * -->
+    ew
+    e
+    w
+    c
+    w
+    c
+    w
+    c
+    w
     
 
     
