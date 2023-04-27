@@ -141,14 +141,7 @@ farametır | farametır
    Konu (Mısalı Şimdeki Zaman)
     * -->
     ew
-    e
-    w
-    c
-    w
-    c
-    w
-    c
-    w
+    
     
 
     
