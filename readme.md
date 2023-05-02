@@ -133,15 +133,7 @@ farametır | farametır
 
 🔡
 ## Türkçe
-
-<!-- * Türk dil kısaca anlatmaliz
-    - türk hakınde biraz şeyler yazın
-    - türk cümle kuralı nasıl,cümlelerde aynı şeyleri anlatmalıyız ´soru ekiler,işaretler´ gibi her cümledee var şeyler 
-    (Resimile altıyorken kısaca anlatmamız lazım)
-   Konu (Mısalı Şimdeki Zaman)
-    * -->
-    ew
-    
+ 
     
 
     
