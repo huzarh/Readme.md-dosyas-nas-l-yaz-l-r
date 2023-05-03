@@ -135,5 +135,5 @@ farametır | farametır
 ## Türkçe
  
     
-
+gyyku
     
