@@ -134,6 +134,7 @@ farametır | farametır
 🔡
 ## Türkçe
  
-    
-gyyku
+   uliuok
+jfhf
+kjhkj 
     
