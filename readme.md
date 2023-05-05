@@ -132,9 +132,7 @@ farametır | farametır
 | farametır | farametır |
 
 🔡
-## Türkçe
- 
-   uliuok
-jfhf
-kjhkj 
+## Türkçejyhgjh
+hjhikhjk
+jhg
     
