@@ -108,6 +108,7 @@ _ vurgulamak
 . nokta
 ! ünlem işareti
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?huzarh=anuraghazra&show_icons=true&bg_color=00000000)
 
 ## kod
 
