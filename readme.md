@@ -9,7 +9,7 @@
 
 ```
 
-## readme.md nedir ✍️
+## readme.md nedir ✍️sdffb
 
 README.md dosyası, bir proje dizininde bulunan bir dosyadır ve proje hakkında önemli bilgileri içerir. "README" kelimesi, "read me" kelime öbeğinin kısaltmasıdır ve dosyanın amacı, diğer kullanıcılara projenin ne hakkında olduğu hakkında kısa bir açıklama ve yönlendirme sağlamaktır.
 
