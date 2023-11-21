@@ -114,7 +114,7 @@ _ vurgulamak
 
 ```javascript
 if (isAwesome) {
-  return true;
+  return true;   
 }dvdv
 ```
 
